@@ -1,2 +1,2 @@
 # frontend Akbar
-[Front-End Link](https://akbarraga.github.io/frontend/)
+https://akbarraga.github.io/frontend/
